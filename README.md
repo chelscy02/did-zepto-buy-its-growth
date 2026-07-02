@@ -86,7 +86,7 @@ Some major insights from the research include:
 
 🔗 **Live Project**
 
-YOUR_NETLIFY_LINK_HERE
+https://zepto-habit-hypothesis.netlify.app
 
 ---
 
